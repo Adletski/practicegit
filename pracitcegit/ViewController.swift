@@ -15,8 +15,6 @@ class ViewController: UIViewController {
         print("hello there")
         
         print("second heello here for practicing git")
-        
-        print("hello fourth commit")
     }
 
 
